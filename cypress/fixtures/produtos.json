@@ -1,0 +1,19 @@
+{
+  "produtos":[
+  {
+    "name": "Sabonete" 
+  },
+  {
+    "name": "Shampoo"
+  },
+  {
+    "name": "Hidratante"
+  },
+  {
+    "name": "Esfoliante"
+  },
+  {
+    "name": "Antirrugas"
+  }
+]
+}
